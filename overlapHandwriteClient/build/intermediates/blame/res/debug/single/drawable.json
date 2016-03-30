@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_check.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable\\background_transparent.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable\\background_progress.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable\\background_progress.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable\\background_checkbox.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_uncheck.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable\\background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable\\background_switch_ball_uncheck.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_down.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_float.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable\\background_button_float.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_rectangle.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable\\background_button_rectangle.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button.9.png",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable\\background_button.9.png"
+    }
+]

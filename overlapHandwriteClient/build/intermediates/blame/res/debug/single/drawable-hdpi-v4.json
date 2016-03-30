@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sprite_check.png",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\drawable-hdpi-v4\\sprite_check.png"
+    }
+]

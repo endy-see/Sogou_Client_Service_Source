@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">搜狗手写识别引擎</string>
+	<string name="action_settings">设置</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="real_time">实时显示</string>
+	<string name="recognize_mode">识别模式</string>
+	<string name="mode_single_word">单个字符</string>
+	<string name="mode_overlay"> 重叠</string>
+	<string name="mode_raw">短句</string>
+	<string name="recognize_version">选择语言</string>
+	<string name="version_tranditional">繁体</string>
+	<string name="version_simplified">简体</string>
+	<string name="version_mixed">简/繁体</string>
+	<string name="version_english">英语</string>
+	<string name="version_kr">韩语</string>
+	<string name="version_jp">日语</string>
+	<string name="target">手写识别范围</string>
+	<string name="select_color">笔色</string>
+	<string name="select_stroke_width">笔迹粗细</string>
+	<string name="select_recognize_end_wait_time">抬笔时间</string>
+	<string name="select_recognize_speed">识别速度</string>
+
+	<string name="uppercase_sc">全角大写英文字母</string>
+	<string name="uppercase_dc">半角大写英文字母</string>
+	<string name="lowercase_sc">全角小写英文字母</string>
+	<string name="lowercase_dc">半角小写英文字母</string>
+	<string name="number_sc">全角数字</string>
+	<string name="number_dc">半角数字</string>
+	<string name="punctuation_sc">全角标点符号 </string>
+	<string name="punctuation_dc"> 半角标点符号</string>
+	<string name="special_char">常用中文生僻字</string>
+	<string name="chinese_char">中文字符</string>
+</resources>

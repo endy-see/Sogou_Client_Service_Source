@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="target">
+        <item>@string/uppercase_sc</item>
+        <item>@string/uppercase_dc</item>
+        <item>@string/lowercase_sc</item>
+        <item>@string/lowercase_dc</item>
+        <item>@string/number_sc</item>
+        <item>@string/number_dc</item>
+        <item>@string/punctuation_sc</item>
+        <item>@string/punctuation_dc</item>
+        <item>@string/special_char</item>
+        <item>@string/chinese_char</item>
+    </string-array>
+
+</resources>

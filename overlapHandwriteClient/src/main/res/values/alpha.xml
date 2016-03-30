@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	 
+   	<array name="alpha">
+   	    <item>0</item>
+   	    <item>26</item>
+   	    <item>51</item>
+   	    <item>77</item>
+   	    <item>102</item>
+   	    <item>154</item>
+   	    <item>180</item>
+   	    <item>205</item>
+   	    <item>230</item>
+   	    <item>255</item>
+   	</array>
+    
+</resources>

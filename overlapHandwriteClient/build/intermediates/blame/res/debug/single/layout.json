@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\layout\\snackbar.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\layout\\activity_overlay_handwrite.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\src\\main\\res\\layout\\activity_overlay_handwrite.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\layout\\color_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\overlapHandwriteClient\\build\\intermediates\\exploded-aar\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\unspecified\\res\\layout\\number_indicator_spinner.xml"
+    }
+]

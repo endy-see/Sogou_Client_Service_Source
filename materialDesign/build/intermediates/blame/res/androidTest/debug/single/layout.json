@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\progress_dialog.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\snackbar.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\number_indicator_spinner.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\color_selector.xml",
+        "source": "E:\\AndroidStudio\\sogou_overlap_handwrite_client_v1.5_new\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\layout\\color_selector.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="18"
+    density="xhdpi"
+    format="6"
+    timestamp="212049621910895" >
+
+    <task
+        name="javac"
+        duration="1849" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="290" />
+    <task
+        name="verifier"
+        duration="159" />
+
+    <artifact
+        location="E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteClient\build\outputs\apk\overlapHandwriteClient-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="212049621910895" >
+        <artifact
+            location="E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteClient\build\outputs\apk\overlapHandwriteClient-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

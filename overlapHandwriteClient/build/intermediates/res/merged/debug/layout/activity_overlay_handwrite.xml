@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="fill_parent"
+        android:layout_height="75dp"
+        android:background="#FFFFFFFF"
+        android:textSize="25sp"
+        android:scrollbars="vertical"
+        android:textColor="#FF000000"
+        />
+    
+     <TextView
+        android:id="@+id/scoretextview"
+         android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFFFF"
+        android:textSize="13sp"
+        android:text="这个是干嘛的。。"
+        android:textColor="#FF000000"
+        />
+     
+     <View 
+         android:layout_width="match_parent"
+         android:layout_height="0.5dp"
+         android:background="#EEEEEE"
+         android:layout_marginLeft="20dp"
+         android:layout_marginRight="20dp"
+         />
+
+    <com.example.overlaphandwriteclient.WritingBoardView
+        android:id="@+id/writingview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        />
+
+</LinearLayout>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="alpha">
+   	    <item>0</item>
+   	    <item>26</item>
+   	    <item>51</item>
+   	    <item>77</item>
+   	    <item>102</item>
+   	    <item>154</item>
+   	    <item>180</item>
+   	    <item>205</item>
+   	    <item>230</item>
+   	    <item>255</item>
+   	</array>
+    <array name="rainbow">
+        <item>@color/black1</item>
+        <item>@color/black2</item>
+        <item>@color/black3</item>
+        <item>@color/black4</item>
+        <item>@color/black5</item>
+        <item>@color/black6</item>
+        <item>@color/black7</item>
+        <item>@color/black8</item>
+        <item>@color/black9</item>
+        <item>@color/black10</item>
+       
+    </array>
+    <string-array name="target">
+        <item>@string/uppercase_sc</item>
+        <item>@string/uppercase_dc</item>
+        <item>@string/lowercase_sc</item>
+        <item>@string/lowercase_dc</item>
+        <item>@string/number_sc</item>
+        <item>@string/number_dc</item>
+        <item>@string/punctuation_sc</item>
+        <item>@string/punctuation_dc</item>
+        <item>@string/special_char</item>
+        <item>@string/chinese_char</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="black1">#00000000</color>
+    <color name="black10">#ff000000</color>
+    <color name="black2">#0f000000</color>
+    <color name="black3">#1e000000</color>
+    <color name="black4">#2d000000</color>
+    <color name="black5">#3c000000</color>
+    <color name="black6">#4b000000</color>
+    <color name="black7">#5a000000</color>
+    <color name="black8">#69000000</color>
+    <color name="black9">#96000000</color>
+    <color name="divide_color">#8C8C8C</color>
+    <color name="green">#00FF00</color>
+    <color name="grey">#CDC9C9</color>
+    <color name="thumbColor">#66aaaaaa</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="CustomAttributes"><attr format="color|reference" name="rippleColor"/><attr format="float" name="rippleSpeed"/><attr format="boolean" name="showNumberIndicator"/><attr format="integer" name="max"/><attr format="integer" name="min"/><attr format="integer" name="value"/><attr format="integer" name="progress"/><attr format="dimension" name="ringWidth"/><attr format="boolean" name="check"/><attr format="dimension" name="checkBoxSize"/><attr format="dimension" name="thumbSize"/><attr format="integer" name="iconDrawable"/><attr format="dimension" name="iconSize"/><attr format="boolean" name="animate"/><attr format="float" name="rippleBorderRadius"/><attr format="boolean" name="clickAfterRipple"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">设置</string>
+    <string name="app_name">搜狗手写识别引擎</string>
+    <string name="chinese_char">中文字符</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lowercase_dc">半角小写英文字母</string>
+    <string name="lowercase_sc">全角小写英文字母</string>
+    <string name="mode_overlay"> 重叠</string>
+    <string name="mode_raw">短句</string>
+    <string name="mode_single_word">单个字符</string>
+    <string name="number_dc">半角数字</string>
+    <string name="number_sc">全角数字</string>
+    <string name="punctuation_dc"> 半角标点符号</string>
+    <string name="punctuation_sc">全角标点符号 </string>
+    <string name="real_time">实时显示</string>
+    <string name="recognize_mode">识别模式</string>
+    <string name="recognize_version">选择语言</string>
+    <string name="select_color">笔色</string>
+    <string name="select_recognize_end_wait_time">抬笔时间</string>
+    <string name="select_recognize_speed">识别速度</string>
+    <string name="select_stroke_width">笔迹粗细</string>
+    <string name="special_char">常用中文生僻字</string>
+    <string name="target">手写识别范围</string>
+    <string name="uppercase_dc">半角大写英文字母</string>
+    <string name="uppercase_sc">全角大写英文字母</string>
+    <string name="version_english">英语</string>
+    <string name="version_jp">日语</string>
+    <string name="version_kr">韩语</string>
+    <string name="version_mixed">简/繁体</string>
+    <string name="version_simplified">简体</string>
+    <string name="version_tranditional">繁体</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
