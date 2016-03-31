@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:23.0.0] E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:10:5-11:23
+	android:name
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:13:5-27:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:15:9-45
+service#com.sogou.handwrite.overlap.HandwriteService
+ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:17:9-26:19
+	android:process
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:20:13-38
+	android:exported
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:18:13-72
+intent-filter#com.sogou.handwrite.overlap.HandwriteService
+ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:21:13-25:29
+action#com.sogou.handwrite.overlap.HandwriteService
+ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:24:17-87
+	android:name
+		ADDED from E:\AndroidStudio\sogou_overlap_handwrite_client_v1.5_new\overlapHandwriteService\src\main\AndroidManifest.xml:24:25-84

@@ -1,0 +1,29 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sogou.handwrite.overlap"
+    android:versionCode="6"
+    android:versionName="1.5" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+    </uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <service
+            android:name="com.sogou.handwrite.overlap.HandwriteService"
+            android:exported="true"
+            android:process=":remote" >
+            <intent-filter>
+
+                <!-- AIDL完整路径名。必须指明，客户端能够通过AIDL类名查找到它的实现类 -->
+                <action android:name="com.sogou.handwrite.overlap.HandwriteService" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

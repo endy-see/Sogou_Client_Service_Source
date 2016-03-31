@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/materialDesign/materialDesign.iml" filepath="$PROJECT_DIR$/materialDesign/materialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overlapHandwriteClient/overlapHandwriteClient.iml" filepath="$PROJECT_DIR$/overlapHandwriteClient/overlapHandwriteClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overlapHandwriteService/overlapHandwriteService.iml" filepath="$PROJECT_DIR$/overlapHandwriteService/overlapHandwriteService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sogou_overlap_handwrite_client_v1.5_new.iml" filepath="$PROJECT_DIR$/sogou_overlap_handwrite_client_v1.5_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testservice/testservice.iml" filepath="$PROJECT_DIR$/testservice/testservice.iml" />
+    </modules>
+  </component>
+</project>
